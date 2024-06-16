@@ -1,4 +1,4 @@
-/* Reset some default styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body {
     line-height: 1.6;
 }
 
-/* Header styles */
+
 header {
     background-color: #333;
     color: #fff;
@@ -24,7 +24,7 @@ nav {
 }
 
 .logo img {
-    max-width: 150px; /* Adjust size as needed */
+    max-width: 150px; 
     height: auto;
 }
 
@@ -39,9 +39,9 @@ nav {
     color: #ff6600;
 }
 
-/* Hero section styles */
-.hero {
-    background-image: url('hero-bg.jpg');
+
+.h {
+    background-image: url('https://www.talisma.com/wp-content/uploads/2022/06/customer-interaction-Banner.jpg');
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -76,7 +76,7 @@ nav {
     background-color: #e65c00;
 }
 
-/* Features section styles */
+
 .features {
     display: flex;
     justify-content: space-around;
@@ -89,13 +89,8 @@ nav {
     max-width: 300px;
 }
 
-.feature img {
-    width: 100%;
-    height: auto;
-    margin-bottom: 20px;
-}
 
-/* Footer styles */
+
 footer {
     background-color: #333;
     color: #fff;
