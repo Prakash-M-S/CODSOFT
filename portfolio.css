@@ -16,7 +16,7 @@ a {
    color: inherit;
 }
 
-
+/* Header */
 header {
    background-color: #4a90e2;
    color: #fff;
@@ -43,7 +43,7 @@ nav a:hover {
    color: #ffd700;
 }
 
-
+/* Hero Section */
 #h {
    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
    background-size: cover;
